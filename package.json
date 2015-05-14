@@ -1,0 +1,17 @@
+{
+  "name": "compact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "nano": "^6.1.2",
+    "ramda": "^0.14.0"
+  }
+}
