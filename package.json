@@ -1,6 +1,6 @@
 {
   "name": "@twilson63/compact",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A document removal and compact routine",
   "main": "index.js",
   "scripts": {
